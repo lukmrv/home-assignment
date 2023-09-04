@@ -4,6 +4,7 @@ Cel: stworzenie listy kart księgowych, oraz dodanie interakcji po wciśnięciu 
 
 Makieta: https://www.sketch.com/s/b0736a6b-3a81-4863-95b6-4ec6775a20e3/a/dg1Gl5l
 (W boczym menu sketch w prawym górnym rogu w zakładce "Inspect" mamy możliwość podglądu właściwości elementów karty księgowego)
+
 ![Alt text](image.png)
 
 Kryteria wykonania:
@@ -53,4 +54,4 @@ type AccountantResponseType = {
 
 ```
 
-Zadanie dodatkowe: umieszczenie widoku kart księgowych na /ksiegowi używając React Router
+Zadanie dodatkowe: umieszczenie widoku kart księgowych pod linkiem /ksiegowi używając React Router
