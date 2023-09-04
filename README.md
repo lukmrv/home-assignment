@@ -29,7 +29,7 @@ Używając danych z dostarczonego publicznego api, stwórz widok wyświetlający
 Karta księgowego powinna być stworzona według projektu z załączonego powyżej linku.
 Na dole, pod listą kart księgowych, powinien znajdować się przycisk pozwalający na załadowanie kolejnych kart z informacjami o księgowych
 
-Dane księgowego (wyświetlane w karcie księgowego):
+Dane z API wyświetlene w karcie księgowego:
 
 ```
 type AccountantType = {

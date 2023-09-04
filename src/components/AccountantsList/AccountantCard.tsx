@@ -39,7 +39,6 @@ export const AccountantCard = ({
             borderRadius: theme.radius["8"],
           }}
           src={accountantObject.picture.medium}
-          alt="accountant-profile-picture"
         />
         <div>
           <PagargraphM>Twoja księgowa</PagargraphM>
