@@ -1,4 +1,3 @@
-import { NavLink } from "react-router-dom";
 import { styled } from "styled-components";
 import { APP_ROUTES } from "../../utils/consts";
 import { InternalLink } from "../Typography/Typography";
